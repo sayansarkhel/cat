@@ -5,12 +5,12 @@ var jerry, jerryImg1,jerryImg2;
 
 function preload() {
     bg = loadImage("images/garden.png");
-    tomImg1= loadAnimation("images/tomOne.png");
-    tomImg2=loadAnimation("images/tomTwo.png","images/tomThree.png");
-    tomImg3= loadAnimation("images/tomFour.png");
-    jerryImg1=loadAnimation("images/jerryOne.png");
-    jerryImg2= loadAnimation("images/jerryTwo.png","images/jerryThree.png");
-    jerryImg3=loadAnimation("images/jerryFour.png");
+    tomImg1= loadAnimation("images/tom1.png");
+    tomImg2=loadAnimation("images/tom2.png","images/tom3.png");
+    tomImg3= loadAnimation("images/tom4.png");
+    jerryImg1=loadAnimation("images/jerry1.png");
+    jerryImg2= loadAnimation("images/jerry2.png","images/jerry3.png");
+    jerryImg3=loadAnimation("images/jerry4.png");
 
 }
 
